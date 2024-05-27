@@ -1,6 +1,5 @@
 import pygame
 import random
-import neat
 class Bird():
     
     def __init__(self,x,y,image):
